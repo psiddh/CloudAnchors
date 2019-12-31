@@ -16,15 +16,11 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-
-        <!--TODO: Add API Key here-->
-
         <meta-data
             android:name="com.google.android.ar.API_KEY"
-            android:value="Paste your API Key here" />
+            android:value="AIzaSyCf7XEBOhIG3Bow4NTPlVabKjO1VH7zA3M" />
 
         <meta-data android:name="com.google.ar.core" android:value="required" />
-
     </application>
 
     <uses-permission android:name="android.permission.CAMERA" />

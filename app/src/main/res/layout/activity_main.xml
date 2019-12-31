@@ -7,10 +7,10 @@
     tools:context=".MainActivity">
 
     <fragment
-        android:layout_width="match_parent"
-        android:layout_height="match_parent"
         android:id="@+id/sceneform_fragment"
-        android:name="com.hack.innovationstar.cloudanchors.CustomArFragment" />
+        android:name="com.hack.innovationstar.cloudanchors.CustomArFragment"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent" />
 
     <LinearLayout
         android:layout_width="match_parent"

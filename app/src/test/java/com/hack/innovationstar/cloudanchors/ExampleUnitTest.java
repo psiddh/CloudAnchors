@@ -1,4 +1,4 @@
-package com.hack.innovationstar.cloudanchors;
+package com.hack.innovationstar.sample;
 
 import org.junit.Test;
 
