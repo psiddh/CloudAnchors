@@ -1,4 +1,4 @@
-package com.hack.innovationstar.cloudanchors;
+package com.hack.innovationstar.sample;
 
 import com.google.ar.core.Config;
 import com.google.ar.core.Session;

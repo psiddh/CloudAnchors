@@ -21,6 +21,6 @@ public class ExampleInstrumentedTest {
         // Context of the app under test.
         Context appContext = InstrumentationRegistry.getTargetContext();
 
-        assertEquals("com.hack.innovationstar.cloudanchors", appContext.getPackageName());
+        assertEquals("com.hack.innovationstar.sample", appContext.getPackageName());
     }
 }

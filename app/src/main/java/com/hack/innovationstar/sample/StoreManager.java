@@ -1,4 +1,4 @@
-package com.hack.innovationstar.cloudanchors;
+package com.hack.innovationstar.sample;
 
 import android.content.Context;
 import android.util.Log;

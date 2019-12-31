@@ -10,7 +10,7 @@
       "client_info": {
         "mobilesdk_app_id": "1:891119758690:android:57b8082d075bfb60",
         "android_client_info": {
-          "package_name": "com.hack.innovationstar.cloudanchors"
+          "package_name": "com.hack.innovationstar.sample"
         }
       },
       "oauth_client": [
@@ -18,7 +18,7 @@
           "client_id": "891119758690-73q8cslf66jk87qo6bctq7alp1fin3hb.apps.googleusercontent.com",
           "client_type": 1,
           "android_info": {
-            "package_name": "com.hack.innovationstar.cloudanchors",
+            "package_name": "com.hack.innovationstar.sample",
             "certificate_hash": "46b12969032b624b6ce6c4a8b235e10c62c4144f"
           }
         },

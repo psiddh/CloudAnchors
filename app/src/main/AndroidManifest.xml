@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.hack.innovationstar.cloudanchors">
+    package="com.hack.innovationstar.sample">
 
     <application
         android:allowBackup="true"
@@ -9,7 +9,7 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
-        <activity android:name=".MainActivity">
+        <activity android:name="com.hack.innovationstar.sample.MainActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
@@ -18,7 +18,7 @@
         </activity>
         <meta-data
             android:name="com.google.android.ar.API_KEY"
-            android:value="AIzaSyCf7XEBOhIG3Bow4NTPlVabKjO1VH7zA3M" />
+            android:value="AIzaSyAHnEQvDZkhdcDMckDgehRM3yaUhcpvb18" />
 
         <meta-data android:name="com.google.ar.core" android:value="required" />
     </application>
